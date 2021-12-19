@@ -1,0 +1,15 @@
+C:\Users\Dell\Desktop\csharp\1-data-types-and-variables\4-working-with-text\3- string-interpolation\bin\Debug\net6.0\3- string-interpolation.exe
+C:\Users\Dell\Desktop\csharp\1-data-types-and-variables\4-working-with-text\3- string-interpolation\bin\Debug\net6.0\3- string-interpolation.deps.json
+C:\Users\Dell\Desktop\csharp\1-data-types-and-variables\4-working-with-text\3- string-interpolation\bin\Debug\net6.0\3- string-interpolation.runtimeconfig.json
+C:\Users\Dell\Desktop\csharp\1-data-types-and-variables\4-working-with-text\3- string-interpolation\bin\Debug\net6.0\3- string-interpolation.dll
+C:\Users\Dell\Desktop\csharp\1-data-types-and-variables\4-working-with-text\3- string-interpolation\bin\Debug\net6.0\ref\3- string-interpolation.dll
+C:\Users\Dell\Desktop\csharp\1-data-types-and-variables\4-working-with-text\3- string-interpolation\bin\Debug\net6.0\3- string-interpolation.pdb
+C:\Users\Dell\Desktop\csharp\1-data-types-and-variables\4-working-with-text\3- string-interpolation\obj\Debug\net6.0\3- string-interpolation.csproj.AssemblyReference.cache
+C:\Users\Dell\Desktop\csharp\1-data-types-and-variables\4-working-with-text\3- string-interpolation\obj\Debug\net6.0\3- string-interpolation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\Desktop\csharp\1-data-types-and-variables\4-working-with-text\3- string-interpolation\obj\Debug\net6.0\3- string-interpolation.AssemblyInfoInputs.cache
+C:\Users\Dell\Desktop\csharp\1-data-types-and-variables\4-working-with-text\3- string-interpolation\obj\Debug\net6.0\3- string-interpolation.AssemblyInfo.cs
+C:\Users\Dell\Desktop\csharp\1-data-types-and-variables\4-working-with-text\3- string-interpolation\obj\Debug\net6.0\3- string-interpolation.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Desktop\csharp\1-data-types-and-variables\4-working-with-text\3- string-interpolation\obj\Debug\net6.0\3- string-interpolation.dll
+C:\Users\Dell\Desktop\csharp\1-data-types-and-variables\4-working-with-text\3- string-interpolation\obj\Debug\net6.0\ref\3- string-interpolation.dll
+C:\Users\Dell\Desktop\csharp\1-data-types-and-variables\4-working-with-text\3- string-interpolation\obj\Debug\net6.0\3- string-interpolation.pdb
+C:\Users\Dell\Desktop\csharp\1-data-types-and-variables\4-working-with-text\3- string-interpolation\obj\Debug\net6.0\3- string-interpolation.genruntimeconfig.cache

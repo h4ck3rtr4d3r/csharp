@@ -1,0 +1,15 @@
+C:\Users\Dell\Desktop\csharp\1-data-types-and-variables\4-working-with-text\2-string-concatenation\bin\Debug\net6.0\2-string-concatenation.exe
+C:\Users\Dell\Desktop\csharp\1-data-types-and-variables\4-working-with-text\2-string-concatenation\bin\Debug\net6.0\2-string-concatenation.deps.json
+C:\Users\Dell\Desktop\csharp\1-data-types-and-variables\4-working-with-text\2-string-concatenation\bin\Debug\net6.0\2-string-concatenation.runtimeconfig.json
+C:\Users\Dell\Desktop\csharp\1-data-types-and-variables\4-working-with-text\2-string-concatenation\bin\Debug\net6.0\2-string-concatenation.dll
+C:\Users\Dell\Desktop\csharp\1-data-types-and-variables\4-working-with-text\2-string-concatenation\bin\Debug\net6.0\ref\2-string-concatenation.dll
+C:\Users\Dell\Desktop\csharp\1-data-types-and-variables\4-working-with-text\2-string-concatenation\bin\Debug\net6.0\2-string-concatenation.pdb
+C:\Users\Dell\Desktop\csharp\1-data-types-and-variables\4-working-with-text\2-string-concatenation\obj\Debug\net6.0\2-string-concatenation.csproj.AssemblyReference.cache
+C:\Users\Dell\Desktop\csharp\1-data-types-and-variables\4-working-with-text\2-string-concatenation\obj\Debug\net6.0\2-string-concatenation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\Desktop\csharp\1-data-types-and-variables\4-working-with-text\2-string-concatenation\obj\Debug\net6.0\2-string-concatenation.AssemblyInfoInputs.cache
+C:\Users\Dell\Desktop\csharp\1-data-types-and-variables\4-working-with-text\2-string-concatenation\obj\Debug\net6.0\2-string-concatenation.AssemblyInfo.cs
+C:\Users\Dell\Desktop\csharp\1-data-types-and-variables\4-working-with-text\2-string-concatenation\obj\Debug\net6.0\2-string-concatenation.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Desktop\csharp\1-data-types-and-variables\4-working-with-text\2-string-concatenation\obj\Debug\net6.0\2-string-concatenation.dll
+C:\Users\Dell\Desktop\csharp\1-data-types-and-variables\4-working-with-text\2-string-concatenation\obj\Debug\net6.0\ref\2-string-concatenation.dll
+C:\Users\Dell\Desktop\csharp\1-data-types-and-variables\4-working-with-text\2-string-concatenation\obj\Debug\net6.0\2-string-concatenation.pdb
+C:\Users\Dell\Desktop\csharp\1-data-types-and-variables\4-working-with-text\2-string-concatenation\obj\Debug\net6.0\2-string-concatenation.genruntimeconfig.cache

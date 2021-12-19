@@ -1,0 +1,15 @@
+C:\Users\Dell\Desktop\csharp\1-data-types-and-variables\3-working-with-numbers\4-modulo\bin\Debug\net6.0\4-modulo.exe
+C:\Users\Dell\Desktop\csharp\1-data-types-and-variables\3-working-with-numbers\4-modulo\bin\Debug\net6.0\4-modulo.deps.json
+C:\Users\Dell\Desktop\csharp\1-data-types-and-variables\3-working-with-numbers\4-modulo\bin\Debug\net6.0\4-modulo.runtimeconfig.json
+C:\Users\Dell\Desktop\csharp\1-data-types-and-variables\3-working-with-numbers\4-modulo\bin\Debug\net6.0\4-modulo.dll
+C:\Users\Dell\Desktop\csharp\1-data-types-and-variables\3-working-with-numbers\4-modulo\bin\Debug\net6.0\ref\4-modulo.dll
+C:\Users\Dell\Desktop\csharp\1-data-types-and-variables\3-working-with-numbers\4-modulo\bin\Debug\net6.0\4-modulo.pdb
+C:\Users\Dell\Desktop\csharp\1-data-types-and-variables\3-working-with-numbers\4-modulo\obj\Debug\net6.0\4-modulo.csproj.AssemblyReference.cache
+C:\Users\Dell\Desktop\csharp\1-data-types-and-variables\3-working-with-numbers\4-modulo\obj\Debug\net6.0\4-modulo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\Desktop\csharp\1-data-types-and-variables\3-working-with-numbers\4-modulo\obj\Debug\net6.0\4-modulo.AssemblyInfoInputs.cache
+C:\Users\Dell\Desktop\csharp\1-data-types-and-variables\3-working-with-numbers\4-modulo\obj\Debug\net6.0\4-modulo.AssemblyInfo.cs
+C:\Users\Dell\Desktop\csharp\1-data-types-and-variables\3-working-with-numbers\4-modulo\obj\Debug\net6.0\4-modulo.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Desktop\csharp\1-data-types-and-variables\3-working-with-numbers\4-modulo\obj\Debug\net6.0\4-modulo.dll
+C:\Users\Dell\Desktop\csharp\1-data-types-and-variables\3-working-with-numbers\4-modulo\obj\Debug\net6.0\ref\4-modulo.dll
+C:\Users\Dell\Desktop\csharp\1-data-types-and-variables\3-working-with-numbers\4-modulo\obj\Debug\net6.0\4-modulo.pdb
+C:\Users\Dell\Desktop\csharp\1-data-types-and-variables\3-working-with-numbers\4-modulo\obj\Debug\net6.0\4-modulo.genruntimeconfig.cache

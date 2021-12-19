@@ -1,0 +1,15 @@
+C:\Users\Dell\Desktop\csharp\1-data-types-and-variables\3-working-with-numbers\1-numerical-data-types\bin\Debug\net6.0\3-working-with-numbers.exe
+C:\Users\Dell\Desktop\csharp\1-data-types-and-variables\3-working-with-numbers\1-numerical-data-types\bin\Debug\net6.0\3-working-with-numbers.deps.json
+C:\Users\Dell\Desktop\csharp\1-data-types-and-variables\3-working-with-numbers\1-numerical-data-types\bin\Debug\net6.0\3-working-with-numbers.runtimeconfig.json
+C:\Users\Dell\Desktop\csharp\1-data-types-and-variables\3-working-with-numbers\1-numerical-data-types\bin\Debug\net6.0\3-working-with-numbers.dll
+C:\Users\Dell\Desktop\csharp\1-data-types-and-variables\3-working-with-numbers\1-numerical-data-types\bin\Debug\net6.0\ref\3-working-with-numbers.dll
+C:\Users\Dell\Desktop\csharp\1-data-types-and-variables\3-working-with-numbers\1-numerical-data-types\bin\Debug\net6.0\3-working-with-numbers.pdb
+C:\Users\Dell\Desktop\csharp\1-data-types-and-variables\3-working-with-numbers\1-numerical-data-types\obj\Debug\net6.0\3-working-with-numbers.csproj.AssemblyReference.cache
+C:\Users\Dell\Desktop\csharp\1-data-types-and-variables\3-working-with-numbers\1-numerical-data-types\obj\Debug\net6.0\3-working-with-numbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\Desktop\csharp\1-data-types-and-variables\3-working-with-numbers\1-numerical-data-types\obj\Debug\net6.0\3-working-with-numbers.AssemblyInfoInputs.cache
+C:\Users\Dell\Desktop\csharp\1-data-types-and-variables\3-working-with-numbers\1-numerical-data-types\obj\Debug\net6.0\3-working-with-numbers.AssemblyInfo.cs
+C:\Users\Dell\Desktop\csharp\1-data-types-and-variables\3-working-with-numbers\1-numerical-data-types\obj\Debug\net6.0\3-working-with-numbers.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Desktop\csharp\1-data-types-and-variables\3-working-with-numbers\1-numerical-data-types\obj\Debug\net6.0\3-working-with-numbers.dll
+C:\Users\Dell\Desktop\csharp\1-data-types-and-variables\3-working-with-numbers\1-numerical-data-types\obj\Debug\net6.0\ref\3-working-with-numbers.dll
+C:\Users\Dell\Desktop\csharp\1-data-types-and-variables\3-working-with-numbers\1-numerical-data-types\obj\Debug\net6.0\3-working-with-numbers.pdb
+C:\Users\Dell\Desktop\csharp\1-data-types-and-variables\3-working-with-numbers\1-numerical-data-types\obj\Debug\net6.0\3-working-with-numbers.genruntimeconfig.cache

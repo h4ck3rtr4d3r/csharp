@@ -1,0 +1,15 @@
+C:\Users\Dell\Desktop\csharp\1-data-types-and-variables\3-working-with-numbers\2-arithmetic-operators\bin\Debug\net6.0\2-arithmetic-operators.exe
+C:\Users\Dell\Desktop\csharp\1-data-types-and-variables\3-working-with-numbers\2-arithmetic-operators\bin\Debug\net6.0\2-arithmetic-operators.deps.json
+C:\Users\Dell\Desktop\csharp\1-data-types-and-variables\3-working-with-numbers\2-arithmetic-operators\bin\Debug\net6.0\2-arithmetic-operators.runtimeconfig.json
+C:\Users\Dell\Desktop\csharp\1-data-types-and-variables\3-working-with-numbers\2-arithmetic-operators\bin\Debug\net6.0\2-arithmetic-operators.dll
+C:\Users\Dell\Desktop\csharp\1-data-types-and-variables\3-working-with-numbers\2-arithmetic-operators\bin\Debug\net6.0\ref\2-arithmetic-operators.dll
+C:\Users\Dell\Desktop\csharp\1-data-types-and-variables\3-working-with-numbers\2-arithmetic-operators\bin\Debug\net6.0\2-arithmetic-operators.pdb
+C:\Users\Dell\Desktop\csharp\1-data-types-and-variables\3-working-with-numbers\2-arithmetic-operators\obj\Debug\net6.0\2-arithmetic-operators.csproj.AssemblyReference.cache
+C:\Users\Dell\Desktop\csharp\1-data-types-and-variables\3-working-with-numbers\2-arithmetic-operators\obj\Debug\net6.0\2-arithmetic-operators.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\Desktop\csharp\1-data-types-and-variables\3-working-with-numbers\2-arithmetic-operators\obj\Debug\net6.0\2-arithmetic-operators.AssemblyInfoInputs.cache
+C:\Users\Dell\Desktop\csharp\1-data-types-and-variables\3-working-with-numbers\2-arithmetic-operators\obj\Debug\net6.0\2-arithmetic-operators.AssemblyInfo.cs
+C:\Users\Dell\Desktop\csharp\1-data-types-and-variables\3-working-with-numbers\2-arithmetic-operators\obj\Debug\net6.0\2-arithmetic-operators.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Desktop\csharp\1-data-types-and-variables\3-working-with-numbers\2-arithmetic-operators\obj\Debug\net6.0\2-arithmetic-operators.dll
+C:\Users\Dell\Desktop\csharp\1-data-types-and-variables\3-working-with-numbers\2-arithmetic-operators\obj\Debug\net6.0\ref\2-arithmetic-operators.dll
+C:\Users\Dell\Desktop\csharp\1-data-types-and-variables\3-working-with-numbers\2-arithmetic-operators\obj\Debug\net6.0\2-arithmetic-operators.pdb
+C:\Users\Dell\Desktop\csharp\1-data-types-and-variables\3-working-with-numbers\2-arithmetic-operators\obj\Debug\net6.0\2-arithmetic-operators.genruntimeconfig.cache

@@ -1,0 +1,15 @@
+C:\Users\Dell\Desktop\csharp\2-data-types-variables\2-handling-errors\obj\Debug\net6.0\2-handling-errors.csproj.AssemblyReference.cache
+C:\Users\Dell\Desktop\csharp\2-data-types-variables\2-handling-errors\obj\Debug\net6.0\2-handling-errors.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\Desktop\csharp\2-data-types-variables\2-handling-errors\obj\Debug\net6.0\2-handling-errors.AssemblyInfoInputs.cache
+C:\Users\Dell\Desktop\csharp\2-data-types-variables\2-handling-errors\obj\Debug\net6.0\2-handling-errors.AssemblyInfo.cs
+C:\Users\Dell\Desktop\csharp\2-data-types-variables\2-handling-errors\obj\Debug\net6.0\2-handling-errors.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Desktop\csharp\2-data-types-variables\2-handling-errors\bin\Debug\net6.0\2-handling-errors.exe
+C:\Users\Dell\Desktop\csharp\2-data-types-variables\2-handling-errors\bin\Debug\net6.0\2-handling-errors.deps.json
+C:\Users\Dell\Desktop\csharp\2-data-types-variables\2-handling-errors\bin\Debug\net6.0\2-handling-errors.runtimeconfig.json
+C:\Users\Dell\Desktop\csharp\2-data-types-variables\2-handling-errors\bin\Debug\net6.0\2-handling-errors.dll
+C:\Users\Dell\Desktop\csharp\2-data-types-variables\2-handling-errors\bin\Debug\net6.0\ref\2-handling-errors.dll
+C:\Users\Dell\Desktop\csharp\2-data-types-variables\2-handling-errors\bin\Debug\net6.0\2-handling-errors.pdb
+C:\Users\Dell\Desktop\csharp\2-data-types-variables\2-handling-errors\obj\Debug\net6.0\2-handling-errors.dll
+C:\Users\Dell\Desktop\csharp\2-data-types-variables\2-handling-errors\obj\Debug\net6.0\ref\2-handling-errors.dll
+C:\Users\Dell\Desktop\csharp\2-data-types-variables\2-handling-errors\obj\Debug\net6.0\2-handling-errors.pdb
+C:\Users\Dell\Desktop\csharp\2-data-types-variables\2-handling-errors\obj\Debug\net6.0\2-handling-errors.genruntimeconfig.cache

@@ -1,0 +1,15 @@
+C:\Users\Dell\Desktop\csharp\1-data-types-and-variables\3-working-with-numbers\5-built-in-methods\obj\Debug\net6.0\5-built-in-methods.csproj.AssemblyReference.cache
+C:\Users\Dell\Desktop\csharp\1-data-types-and-variables\3-working-with-numbers\5-built-in-methods\obj\Debug\net6.0\5-built-in-methods.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\Desktop\csharp\1-data-types-and-variables\3-working-with-numbers\5-built-in-methods\obj\Debug\net6.0\5-built-in-methods.AssemblyInfoInputs.cache
+C:\Users\Dell\Desktop\csharp\1-data-types-and-variables\3-working-with-numbers\5-built-in-methods\obj\Debug\net6.0\5-built-in-methods.AssemblyInfo.cs
+C:\Users\Dell\Desktop\csharp\1-data-types-and-variables\3-working-with-numbers\5-built-in-methods\obj\Debug\net6.0\5-built-in-methods.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Desktop\csharp\1-data-types-and-variables\3-working-with-numbers\5-built-in-methods\bin\Debug\net6.0\5-built-in-methods.exe
+C:\Users\Dell\Desktop\csharp\1-data-types-and-variables\3-working-with-numbers\5-built-in-methods\bin\Debug\net6.0\5-built-in-methods.deps.json
+C:\Users\Dell\Desktop\csharp\1-data-types-and-variables\3-working-with-numbers\5-built-in-methods\bin\Debug\net6.0\5-built-in-methods.runtimeconfig.json
+C:\Users\Dell\Desktop\csharp\1-data-types-and-variables\3-working-with-numbers\5-built-in-methods\bin\Debug\net6.0\5-built-in-methods.dll
+C:\Users\Dell\Desktop\csharp\1-data-types-and-variables\3-working-with-numbers\5-built-in-methods\bin\Debug\net6.0\ref\5-built-in-methods.dll
+C:\Users\Dell\Desktop\csharp\1-data-types-and-variables\3-working-with-numbers\5-built-in-methods\bin\Debug\net6.0\5-built-in-methods.pdb
+C:\Users\Dell\Desktop\csharp\1-data-types-and-variables\3-working-with-numbers\5-built-in-methods\obj\Debug\net6.0\5-built-in-methods.dll
+C:\Users\Dell\Desktop\csharp\1-data-types-and-variables\3-working-with-numbers\5-built-in-methods\obj\Debug\net6.0\ref\5-built-in-methods.dll
+C:\Users\Dell\Desktop\csharp\1-data-types-and-variables\3-working-with-numbers\5-built-in-methods\obj\Debug\net6.0\5-built-in-methods.pdb
+C:\Users\Dell\Desktop\csharp\1-data-types-and-variables\3-working-with-numbers\5-built-in-methods\obj\Debug\net6.0\5-built-in-methods.genruntimeconfig.cache

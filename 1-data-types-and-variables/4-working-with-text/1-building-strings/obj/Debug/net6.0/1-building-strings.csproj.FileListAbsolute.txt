@@ -1,0 +1,15 @@
+C:\Users\Dell\Desktop\csharp\1-data-types-and-variables\4-working-with-text\1-building-strings\bin\Debug\net6.0\1-building-strings.exe
+C:\Users\Dell\Desktop\csharp\1-data-types-and-variables\4-working-with-text\1-building-strings\bin\Debug\net6.0\1-building-strings.deps.json
+C:\Users\Dell\Desktop\csharp\1-data-types-and-variables\4-working-with-text\1-building-strings\bin\Debug\net6.0\1-building-strings.runtimeconfig.json
+C:\Users\Dell\Desktop\csharp\1-data-types-and-variables\4-working-with-text\1-building-strings\bin\Debug\net6.0\1-building-strings.dll
+C:\Users\Dell\Desktop\csharp\1-data-types-and-variables\4-working-with-text\1-building-strings\bin\Debug\net6.0\ref\1-building-strings.dll
+C:\Users\Dell\Desktop\csharp\1-data-types-and-variables\4-working-with-text\1-building-strings\bin\Debug\net6.0\1-building-strings.pdb
+C:\Users\Dell\Desktop\csharp\1-data-types-and-variables\4-working-with-text\1-building-strings\obj\Debug\net6.0\1-building-strings.csproj.AssemblyReference.cache
+C:\Users\Dell\Desktop\csharp\1-data-types-and-variables\4-working-with-text\1-building-strings\obj\Debug\net6.0\1-building-strings.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\Desktop\csharp\1-data-types-and-variables\4-working-with-text\1-building-strings\obj\Debug\net6.0\1-building-strings.AssemblyInfoInputs.cache
+C:\Users\Dell\Desktop\csharp\1-data-types-and-variables\4-working-with-text\1-building-strings\obj\Debug\net6.0\1-building-strings.AssemblyInfo.cs
+C:\Users\Dell\Desktop\csharp\1-data-types-and-variables\4-working-with-text\1-building-strings\obj\Debug\net6.0\1-building-strings.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Desktop\csharp\1-data-types-and-variables\4-working-with-text\1-building-strings\obj\Debug\net6.0\1-building-strings.dll
+C:\Users\Dell\Desktop\csharp\1-data-types-and-variables\4-working-with-text\1-building-strings\obj\Debug\net6.0\ref\1-building-strings.dll
+C:\Users\Dell\Desktop\csharp\1-data-types-and-variables\4-working-with-text\1-building-strings\obj\Debug\net6.0\1-building-strings.pdb
+C:\Users\Dell\Desktop\csharp\1-data-types-and-variables\4-working-with-text\1-building-strings\obj\Debug\net6.0\1-building-strings.genruntimeconfig.cache

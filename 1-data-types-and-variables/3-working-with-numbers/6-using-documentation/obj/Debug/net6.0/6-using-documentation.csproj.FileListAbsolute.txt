@@ -1,0 +1,15 @@
+C:\Users\Dell\Desktop\csharp\1-data-types-and-variables\3-working-with-numbers\6-using-documentation\bin\Debug\net6.0\6-using-documentation.exe
+C:\Users\Dell\Desktop\csharp\1-data-types-and-variables\3-working-with-numbers\6-using-documentation\bin\Debug\net6.0\6-using-documentation.deps.json
+C:\Users\Dell\Desktop\csharp\1-data-types-and-variables\3-working-with-numbers\6-using-documentation\bin\Debug\net6.0\6-using-documentation.runtimeconfig.json
+C:\Users\Dell\Desktop\csharp\1-data-types-and-variables\3-working-with-numbers\6-using-documentation\bin\Debug\net6.0\6-using-documentation.dll
+C:\Users\Dell\Desktop\csharp\1-data-types-and-variables\3-working-with-numbers\6-using-documentation\bin\Debug\net6.0\ref\6-using-documentation.dll
+C:\Users\Dell\Desktop\csharp\1-data-types-and-variables\3-working-with-numbers\6-using-documentation\bin\Debug\net6.0\6-using-documentation.pdb
+C:\Users\Dell\Desktop\csharp\1-data-types-and-variables\3-working-with-numbers\6-using-documentation\obj\Debug\net6.0\6-using-documentation.csproj.AssemblyReference.cache
+C:\Users\Dell\Desktop\csharp\1-data-types-and-variables\3-working-with-numbers\6-using-documentation\obj\Debug\net6.0\6-using-documentation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\Desktop\csharp\1-data-types-and-variables\3-working-with-numbers\6-using-documentation\obj\Debug\net6.0\6-using-documentation.AssemblyInfoInputs.cache
+C:\Users\Dell\Desktop\csharp\1-data-types-and-variables\3-working-with-numbers\6-using-documentation\obj\Debug\net6.0\6-using-documentation.AssemblyInfo.cs
+C:\Users\Dell\Desktop\csharp\1-data-types-and-variables\3-working-with-numbers\6-using-documentation\obj\Debug\net6.0\6-using-documentation.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Desktop\csharp\1-data-types-and-variables\3-working-with-numbers\6-using-documentation\obj\Debug\net6.0\6-using-documentation.dll
+C:\Users\Dell\Desktop\csharp\1-data-types-and-variables\3-working-with-numbers\6-using-documentation\obj\Debug\net6.0\ref\6-using-documentation.dll
+C:\Users\Dell\Desktop\csharp\1-data-types-and-variables\3-working-with-numbers\6-using-documentation\obj\Debug\net6.0\6-using-documentation.pdb
+C:\Users\Dell\Desktop\csharp\1-data-types-and-variables\3-working-with-numbers\6-using-documentation\obj\Debug\net6.0\6-using-documentation.genruntimeconfig.cache

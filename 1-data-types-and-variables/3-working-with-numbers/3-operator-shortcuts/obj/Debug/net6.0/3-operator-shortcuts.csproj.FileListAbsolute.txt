@@ -1,0 +1,15 @@
+C:\Users\Dell\Desktop\csharp\1-data-types-and-variables\3-working-with-numbers\3-operator-shortcuts\bin\Debug\net6.0\3-operator-shortcuts.exe
+C:\Users\Dell\Desktop\csharp\1-data-types-and-variables\3-working-with-numbers\3-operator-shortcuts\bin\Debug\net6.0\3-operator-shortcuts.deps.json
+C:\Users\Dell\Desktop\csharp\1-data-types-and-variables\3-working-with-numbers\3-operator-shortcuts\bin\Debug\net6.0\3-operator-shortcuts.runtimeconfig.json
+C:\Users\Dell\Desktop\csharp\1-data-types-and-variables\3-working-with-numbers\3-operator-shortcuts\bin\Debug\net6.0\3-operator-shortcuts.dll
+C:\Users\Dell\Desktop\csharp\1-data-types-and-variables\3-working-with-numbers\3-operator-shortcuts\bin\Debug\net6.0\ref\3-operator-shortcuts.dll
+C:\Users\Dell\Desktop\csharp\1-data-types-and-variables\3-working-with-numbers\3-operator-shortcuts\bin\Debug\net6.0\3-operator-shortcuts.pdb
+C:\Users\Dell\Desktop\csharp\1-data-types-and-variables\3-working-with-numbers\3-operator-shortcuts\obj\Debug\net6.0\3-operator-shortcuts.csproj.AssemblyReference.cache
+C:\Users\Dell\Desktop\csharp\1-data-types-and-variables\3-working-with-numbers\3-operator-shortcuts\obj\Debug\net6.0\3-operator-shortcuts.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\Desktop\csharp\1-data-types-and-variables\3-working-with-numbers\3-operator-shortcuts\obj\Debug\net6.0\3-operator-shortcuts.AssemblyInfoInputs.cache
+C:\Users\Dell\Desktop\csharp\1-data-types-and-variables\3-working-with-numbers\3-operator-shortcuts\obj\Debug\net6.0\3-operator-shortcuts.AssemblyInfo.cs
+C:\Users\Dell\Desktop\csharp\1-data-types-and-variables\3-working-with-numbers\3-operator-shortcuts\obj\Debug\net6.0\3-operator-shortcuts.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Desktop\csharp\1-data-types-and-variables\3-working-with-numbers\3-operator-shortcuts\obj\Debug\net6.0\3-operator-shortcuts.dll
+C:\Users\Dell\Desktop\csharp\1-data-types-and-variables\3-working-with-numbers\3-operator-shortcuts\obj\Debug\net6.0\ref\3-operator-shortcuts.dll
+C:\Users\Dell\Desktop\csharp\1-data-types-and-variables\3-working-with-numbers\3-operator-shortcuts\obj\Debug\net6.0\3-operator-shortcuts.pdb
+C:\Users\Dell\Desktop\csharp\1-data-types-and-variables\3-working-with-numbers\3-operator-shortcuts\obj\Debug\net6.0\3-operator-shortcuts.genruntimeconfig.cache
