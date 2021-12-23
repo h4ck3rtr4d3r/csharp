@@ -1,0 +1,15 @@
+/home/h4ck3rtr4d3r/Documents/Devs/csharp/2-project-mad-libs/bin/Debug/net6.0/2-project-mad-libs
+/home/h4ck3rtr4d3r/Documents/Devs/csharp/2-project-mad-libs/bin/Debug/net6.0/2-project-mad-libs.deps.json
+/home/h4ck3rtr4d3r/Documents/Devs/csharp/2-project-mad-libs/bin/Debug/net6.0/2-project-mad-libs.runtimeconfig.json
+/home/h4ck3rtr4d3r/Documents/Devs/csharp/2-project-mad-libs/bin/Debug/net6.0/2-project-mad-libs.dll
+/home/h4ck3rtr4d3r/Documents/Devs/csharp/2-project-mad-libs/bin/Debug/net6.0/ref/2-project-mad-libs.dll
+/home/h4ck3rtr4d3r/Documents/Devs/csharp/2-project-mad-libs/bin/Debug/net6.0/2-project-mad-libs.pdb
+/home/h4ck3rtr4d3r/Documents/Devs/csharp/2-project-mad-libs/obj/Debug/net6.0/2-project-mad-libs.csproj.AssemblyReference.cache
+/home/h4ck3rtr4d3r/Documents/Devs/csharp/2-project-mad-libs/obj/Debug/net6.0/2-project-mad-libs.GeneratedMSBuildEditorConfig.editorconfig
+/home/h4ck3rtr4d3r/Documents/Devs/csharp/2-project-mad-libs/obj/Debug/net6.0/2-project-mad-libs.AssemblyInfoInputs.cache
+/home/h4ck3rtr4d3r/Documents/Devs/csharp/2-project-mad-libs/obj/Debug/net6.0/2-project-mad-libs.AssemblyInfo.cs
+/home/h4ck3rtr4d3r/Documents/Devs/csharp/2-project-mad-libs/obj/Debug/net6.0/2-project-mad-libs.csproj.CoreCompileInputs.cache
+/home/h4ck3rtr4d3r/Documents/Devs/csharp/2-project-mad-libs/obj/Debug/net6.0/2-project-mad-libs.dll
+/home/h4ck3rtr4d3r/Documents/Devs/csharp/2-project-mad-libs/obj/Debug/net6.0/ref/2-project-mad-libs.dll
+/home/h4ck3rtr4d3r/Documents/Devs/csharp/2-project-mad-libs/obj/Debug/net6.0/2-project-mad-libs.pdb
+/home/h4ck3rtr4d3r/Documents/Devs/csharp/2-project-mad-libs/obj/Debug/net6.0/2-project-mad-libs.genruntimeconfig.cache

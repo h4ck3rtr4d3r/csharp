@@ -1,0 +1,65 @@
+{
+  "version": 3,
+  "targets": {
+    "net6.0": {}
+  },
+  "libraries": {},
+  "projectFileDependencyGroups": {
+    "net6.0": []
+  },
+  "packageFolders": {
+    "/home/h4ck3rtr4d3r/.nuget/packages/": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "/home/h4ck3rtr4d3r/Documents/Devs/csharp/2-project-mad-libs/2-project-mad-libs.csproj",
+      "projectName": "2-project-mad-libs",
+      "projectPath": "/home/h4ck3rtr4d3r/Documents/Devs/csharp/2-project-mad-libs/2-project-mad-libs.csproj",
+      "packagesPath": "/home/h4ck3rtr4d3r/.nuget/packages/",
+      "outputPath": "/home/h4ck3rtr4d3r/Documents/Devs/csharp/2-project-mad-libs/obj/",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "/home/h4ck3rtr4d3r/.nuget/NuGet/NuGet.Config"
+      ],
+      "originalTargetFrameworks": [
+        "net6.0"
+      ],
+      "sources": {
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "projectReferences": {}
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net6.0": {
+        "targetAlias": "net6.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/6.0.101/RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}
