@@ -1,0 +1,15 @@
+/home/h4ck3rtr4d3r/Documents/Devs/csharp/3-project-money-maker/bin/Debug/net6.0/3-project-money-maker
+/home/h4ck3rtr4d3r/Documents/Devs/csharp/3-project-money-maker/bin/Debug/net6.0/3-project-money-maker.deps.json
+/home/h4ck3rtr4d3r/Documents/Devs/csharp/3-project-money-maker/bin/Debug/net6.0/3-project-money-maker.runtimeconfig.json
+/home/h4ck3rtr4d3r/Documents/Devs/csharp/3-project-money-maker/bin/Debug/net6.0/3-project-money-maker.dll
+/home/h4ck3rtr4d3r/Documents/Devs/csharp/3-project-money-maker/bin/Debug/net6.0/ref/3-project-money-maker.dll
+/home/h4ck3rtr4d3r/Documents/Devs/csharp/3-project-money-maker/bin/Debug/net6.0/3-project-money-maker.pdb
+/home/h4ck3rtr4d3r/Documents/Devs/csharp/3-project-money-maker/obj/Debug/net6.0/3-project-money-maker.csproj.AssemblyReference.cache
+/home/h4ck3rtr4d3r/Documents/Devs/csharp/3-project-money-maker/obj/Debug/net6.0/3-project-money-maker.GeneratedMSBuildEditorConfig.editorconfig
+/home/h4ck3rtr4d3r/Documents/Devs/csharp/3-project-money-maker/obj/Debug/net6.0/3-project-money-maker.AssemblyInfoInputs.cache
+/home/h4ck3rtr4d3r/Documents/Devs/csharp/3-project-money-maker/obj/Debug/net6.0/3-project-money-maker.AssemblyInfo.cs
+/home/h4ck3rtr4d3r/Documents/Devs/csharp/3-project-money-maker/obj/Debug/net6.0/3-project-money-maker.csproj.CoreCompileInputs.cache
+/home/h4ck3rtr4d3r/Documents/Devs/csharp/3-project-money-maker/obj/Debug/net6.0/3-project-money-maker.dll
+/home/h4ck3rtr4d3r/Documents/Devs/csharp/3-project-money-maker/obj/Debug/net6.0/ref/3-project-money-maker.dll
+/home/h4ck3rtr4d3r/Documents/Devs/csharp/3-project-money-maker/obj/Debug/net6.0/3-project-money-maker.pdb
+/home/h4ck3rtr4d3r/Documents/Devs/csharp/3-project-money-maker/obj/Debug/net6.0/3-project-money-maker.genruntimeconfig.cache
