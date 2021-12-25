@@ -1,0 +1,15 @@
+/home/h4ck3rtr4d3r/Documents/Devs/csharp/2-logic-conditionals/4-logical-operators/bin/Debug/net6.0/4-logical-operators
+/home/h4ck3rtr4d3r/Documents/Devs/csharp/2-logic-conditionals/4-logical-operators/bin/Debug/net6.0/4-logical-operators.deps.json
+/home/h4ck3rtr4d3r/Documents/Devs/csharp/2-logic-conditionals/4-logical-operators/bin/Debug/net6.0/4-logical-operators.runtimeconfig.json
+/home/h4ck3rtr4d3r/Documents/Devs/csharp/2-logic-conditionals/4-logical-operators/bin/Debug/net6.0/4-logical-operators.dll
+/home/h4ck3rtr4d3r/Documents/Devs/csharp/2-logic-conditionals/4-logical-operators/bin/Debug/net6.0/ref/4-logical-operators.dll
+/home/h4ck3rtr4d3r/Documents/Devs/csharp/2-logic-conditionals/4-logical-operators/bin/Debug/net6.0/4-logical-operators.pdb
+/home/h4ck3rtr4d3r/Documents/Devs/csharp/2-logic-conditionals/4-logical-operators/obj/Debug/net6.0/4-logical-operators.csproj.AssemblyReference.cache
+/home/h4ck3rtr4d3r/Documents/Devs/csharp/2-logic-conditionals/4-logical-operators/obj/Debug/net6.0/4-logical-operators.GeneratedMSBuildEditorConfig.editorconfig
+/home/h4ck3rtr4d3r/Documents/Devs/csharp/2-logic-conditionals/4-logical-operators/obj/Debug/net6.0/4-logical-operators.AssemblyInfoInputs.cache
+/home/h4ck3rtr4d3r/Documents/Devs/csharp/2-logic-conditionals/4-logical-operators/obj/Debug/net6.0/4-logical-operators.AssemblyInfo.cs
+/home/h4ck3rtr4d3r/Documents/Devs/csharp/2-logic-conditionals/4-logical-operators/obj/Debug/net6.0/4-logical-operators.csproj.CoreCompileInputs.cache
+/home/h4ck3rtr4d3r/Documents/Devs/csharp/2-logic-conditionals/4-logical-operators/obj/Debug/net6.0/4-logical-operators.dll
+/home/h4ck3rtr4d3r/Documents/Devs/csharp/2-logic-conditionals/4-logical-operators/obj/Debug/net6.0/ref/4-logical-operators.dll
+/home/h4ck3rtr4d3r/Documents/Devs/csharp/2-logic-conditionals/4-logical-operators/obj/Debug/net6.0/4-logical-operators.pdb
+/home/h4ck3rtr4d3r/Documents/Devs/csharp/2-logic-conditionals/4-logical-operators/obj/Debug/net6.0/4-logical-operators.genruntimeconfig.cache
