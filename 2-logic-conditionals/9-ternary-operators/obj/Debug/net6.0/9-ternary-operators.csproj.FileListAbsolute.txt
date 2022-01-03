@@ -1,0 +1,15 @@
+/home/h4ck3rtr4d3r/Documents/Devs/csharp/2-logic-conditionals/9-ternary-operators/bin/Debug/net6.0/9-ternary-operators
+/home/h4ck3rtr4d3r/Documents/Devs/csharp/2-logic-conditionals/9-ternary-operators/bin/Debug/net6.0/9-ternary-operators.deps.json
+/home/h4ck3rtr4d3r/Documents/Devs/csharp/2-logic-conditionals/9-ternary-operators/bin/Debug/net6.0/9-ternary-operators.runtimeconfig.json
+/home/h4ck3rtr4d3r/Documents/Devs/csharp/2-logic-conditionals/9-ternary-operators/bin/Debug/net6.0/9-ternary-operators.dll
+/home/h4ck3rtr4d3r/Documents/Devs/csharp/2-logic-conditionals/9-ternary-operators/bin/Debug/net6.0/ref/9-ternary-operators.dll
+/home/h4ck3rtr4d3r/Documents/Devs/csharp/2-logic-conditionals/9-ternary-operators/bin/Debug/net6.0/9-ternary-operators.pdb
+/home/h4ck3rtr4d3r/Documents/Devs/csharp/2-logic-conditionals/9-ternary-operators/obj/Debug/net6.0/9-ternary-operators.csproj.AssemblyReference.cache
+/home/h4ck3rtr4d3r/Documents/Devs/csharp/2-logic-conditionals/9-ternary-operators/obj/Debug/net6.0/9-ternary-operators.GeneratedMSBuildEditorConfig.editorconfig
+/home/h4ck3rtr4d3r/Documents/Devs/csharp/2-logic-conditionals/9-ternary-operators/obj/Debug/net6.0/9-ternary-operators.AssemblyInfoInputs.cache
+/home/h4ck3rtr4d3r/Documents/Devs/csharp/2-logic-conditionals/9-ternary-operators/obj/Debug/net6.0/9-ternary-operators.AssemblyInfo.cs
+/home/h4ck3rtr4d3r/Documents/Devs/csharp/2-logic-conditionals/9-ternary-operators/obj/Debug/net6.0/9-ternary-operators.csproj.CoreCompileInputs.cache
+/home/h4ck3rtr4d3r/Documents/Devs/csharp/2-logic-conditionals/9-ternary-operators/obj/Debug/net6.0/9-ternary-operators.dll
+/home/h4ck3rtr4d3r/Documents/Devs/csharp/2-logic-conditionals/9-ternary-operators/obj/Debug/net6.0/ref/9-ternary-operators.dll
+/home/h4ck3rtr4d3r/Documents/Devs/csharp/2-logic-conditionals/9-ternary-operators/obj/Debug/net6.0/9-ternary-operators.pdb
+/home/h4ck3rtr4d3r/Documents/Devs/csharp/2-logic-conditionals/9-ternary-operators/obj/Debug/net6.0/9-ternary-operators.genruntimeconfig.cache
