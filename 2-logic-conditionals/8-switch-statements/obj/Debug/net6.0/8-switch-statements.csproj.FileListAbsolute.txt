@@ -1,0 +1,15 @@
+/home/h4ck3rtr4d3r/Documents/Devs/csharp/2-logic-conditionals/8-switch-statements/bin/Debug/net6.0/8-switch-statements
+/home/h4ck3rtr4d3r/Documents/Devs/csharp/2-logic-conditionals/8-switch-statements/bin/Debug/net6.0/8-switch-statements.deps.json
+/home/h4ck3rtr4d3r/Documents/Devs/csharp/2-logic-conditionals/8-switch-statements/bin/Debug/net6.0/8-switch-statements.runtimeconfig.json
+/home/h4ck3rtr4d3r/Documents/Devs/csharp/2-logic-conditionals/8-switch-statements/bin/Debug/net6.0/8-switch-statements.dll
+/home/h4ck3rtr4d3r/Documents/Devs/csharp/2-logic-conditionals/8-switch-statements/bin/Debug/net6.0/ref/8-switch-statements.dll
+/home/h4ck3rtr4d3r/Documents/Devs/csharp/2-logic-conditionals/8-switch-statements/bin/Debug/net6.0/8-switch-statements.pdb
+/home/h4ck3rtr4d3r/Documents/Devs/csharp/2-logic-conditionals/8-switch-statements/obj/Debug/net6.0/8-switch-statements.csproj.AssemblyReference.cache
+/home/h4ck3rtr4d3r/Documents/Devs/csharp/2-logic-conditionals/8-switch-statements/obj/Debug/net6.0/8-switch-statements.GeneratedMSBuildEditorConfig.editorconfig
+/home/h4ck3rtr4d3r/Documents/Devs/csharp/2-logic-conditionals/8-switch-statements/obj/Debug/net6.0/8-switch-statements.AssemblyInfoInputs.cache
+/home/h4ck3rtr4d3r/Documents/Devs/csharp/2-logic-conditionals/8-switch-statements/obj/Debug/net6.0/8-switch-statements.AssemblyInfo.cs
+/home/h4ck3rtr4d3r/Documents/Devs/csharp/2-logic-conditionals/8-switch-statements/obj/Debug/net6.0/8-switch-statements.csproj.CoreCompileInputs.cache
+/home/h4ck3rtr4d3r/Documents/Devs/csharp/2-logic-conditionals/8-switch-statements/obj/Debug/net6.0/8-switch-statements.dll
+/home/h4ck3rtr4d3r/Documents/Devs/csharp/2-logic-conditionals/8-switch-statements/obj/Debug/net6.0/ref/8-switch-statements.dll
+/home/h4ck3rtr4d3r/Documents/Devs/csharp/2-logic-conditionals/8-switch-statements/obj/Debug/net6.0/8-switch-statements.pdb
+/home/h4ck3rtr4d3r/Documents/Devs/csharp/2-logic-conditionals/8-switch-statements/obj/Debug/net6.0/8-switch-statements.genruntimeconfig.cache
